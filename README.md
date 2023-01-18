@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Raza, an aspiring web dev  ^^)/.
+👋 Hi, I’m Raza, an aspiring web dev  ^^)/.
 
 Im learning to fly in the world of coding and development, and making the leap from being a beginner to spreading my wings in this realm. 
 
@@ -11,6 +11,6 @@ You can contact me at Discord (RaZa #4999).
 RazaNaqsh/RazaNaqsh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=RazaNaqsh)
-![Github stats](https://github-readme-stats.vercel.app/api?username=RazaNaqsh&theme=highcontrast&show_icons=true&count_private=true)
 
+![Github stats](https://github-readme-stats.vercel.app/api?username=RazaNaqsh&theme=highcontrast&show_icons=true&count_private=true)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=RazaNaqsh)
