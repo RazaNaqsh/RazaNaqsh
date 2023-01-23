@@ -1,4 +1,4 @@
-👋 Hi, I’m Raza, an aspiring web dev  ^^)/.
+👋 Hi, I’m Raza, an aspiring fullstack dev  ^^)/.
 
 Im learning to fly in the world of coding and development, and making the leap from being a beginner to spreading my wings in this realm. 
 
