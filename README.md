@@ -2,7 +2,7 @@
 
 Im learning to take flight in the world of coding and development, and making the leap from being a beginner to spreading my wings in this realm. 
 
-Currently I use vanilla js and css, but im Learning some frameworks such as tailwind and Sass.
+Currently I use vanilla js(will start React soon) and css(Learning to write Sass), but im Learning some frameworks such as tailWind and will learn more as I proceed further in this journey!
 
 You can contact me at Discord (RaZa #4999).
 <!---
