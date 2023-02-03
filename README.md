@@ -2,7 +2,7 @@
 
 Im learning to take flight in the world of coding and development, and making the leap from being a beginner to spreading my wings in this realm. 
 
-Hoping to Learning a lot in this journey! 
+Hoping to learn a lot in this journey! 
 
 You can contact me at Discord (RaZa #4999).
 <!---
