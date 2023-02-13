@@ -2,6 +2,8 @@
 
 Im learning to take flight in the world of coding and development, and making the leap from being a beginner to spreading my wings in this realm. 
 
+Learning Front-End now and..
+
 Hoping to learn a lot in this journey! 
 
 You can contact me at Discord (RaZa #4999).
