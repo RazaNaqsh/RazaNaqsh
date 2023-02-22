@@ -29,8 +29,8 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=RazaNaqsh)
 ![Github stats](https://github-readme-stats.vercel.app/api?username=RazaNaqsh&theme=light&show_icons=true&count_private=true)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=RazaNaqsh)
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RazaNaqsh)](https://git.io/streak-stats)
