@@ -12,7 +12,7 @@ RazaNaqsh/RazaNaqsh is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
-<h3>Languages and Tools</h3>
+<h3>Languages and Tools I Use:</h3>
 <p> <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="CSS3" src="https://img.shields.io/badge/-Css-%231572B6?style=flat-square&logo=css3&logoColor=white" /> 
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-%23323330?style=flat-square&logo=javascript&logoColor=%23F7DF1E" />
