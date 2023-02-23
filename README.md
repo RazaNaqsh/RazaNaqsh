@@ -2,7 +2,7 @@
 
 I’m **Raza**, an *aspiring* **fullstack dev**`(Focusing on FrontEnd rn)`  ^^)/.
 
-Im learning to take flight in the world of coding and development, and making the leap from being a beginner to spreading my wings in this realm. 
+Currently learning to take flight in the world of coding and development, and making the leap from being a beginner to someone who's spreading his wings in this realm. 
 
 *Hoping to learn a lot in this journey!*
 
