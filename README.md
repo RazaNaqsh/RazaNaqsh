@@ -1,10 +1,10 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey There!👋 </h1>
 
-I’m **Raza**, an *aspiring* **fullstack dev**`(Focusing on FrontEnd rn)`  ^^
+I’m **Raza**, an *aspiring* **fullstack dev**`(Focusing on FrontEnd rn)`.  ^^
 
 Currently learning to take flight in the world of coding and development, and making the leap from being a beginner to someone who's spreading his wings in this realm. 
 
-*Hoping to learn a lot in this journey!*
+*Hoping to learn a lot in this journey and GO BEYOND!*
 
 
 <!---
