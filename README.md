@@ -19,6 +19,7 @@ You can click the Preview link to take a look at your changes.
   <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
     <img alt="TailWindCSS" src="https://img.shields.io/badge/-tailwindcss-%2338B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
    <img alt="React" src="https://img.shields.io/badge/-React-%2320232a?style=flat-square&logo=react&logoColor=2361DAFB" />
+   <img alt="Vite" src="https://img.shields.io/badge/-Vite-%23646CFF?style=flat-square&logo=vite&logoColor=white" />
   </p>
   <p>
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
