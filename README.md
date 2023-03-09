@@ -33,11 +33,11 @@ You can click the Preview link to take a look at your changes.
   <img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" />
 </p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RazaNaqsh)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RazaNaqsh&theme=react)](https://git.io/streak-stats)
 
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=RazaNaqsh)
-![Github stats](https://github-readme-stats.vercel.app/api?username=RazaNaqsh&theme=light&show_icons=true&count_private=true)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=RazaNaqsh&theme=react)
+![Github stats](https://github-readme-stats.vercel.app/api?username=RazaNaqsh&theme=react&show_icons=true&count_private=true)
 
 
 
