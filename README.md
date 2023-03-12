@@ -13,13 +13,11 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <h3>Languages and Tools I Use:</h3>
-<p> <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="CSS3" src="https://img.shields.io/badge/-Css-%231572B6?style=flat-square&logo=css3&logoColor=white" /> 
-  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-%23323330?style=flat-square&logo=javascript&logoColor=%23F7DF1E" />
-  <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
+<p> <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-%23323330?style=flat-square&logo=javascript&logoColor=%23F7DF1E" />
+  <img alt="React" src="https://img.shields.io/badge/-React-%2320232a?style=flat-square&logo=react&logoColor=2361DAFB" />
+   <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
     <img alt="TailWindCSS" src="https://img.shields.io/badge/-tailwindcss-%2338B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
-   <img alt="React" src="https://img.shields.io/badge/-React-%2320232a?style=flat-square&logo=react&logoColor=2361DAFB" />
-  </p>
+    </p>
   <p>
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
