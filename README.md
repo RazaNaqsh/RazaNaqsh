@@ -13,8 +13,8 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <h3>Languages and Tools I Use:</h3>
-<p> <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-%23323330?style=flat-square&logo=javascript&logoColor=%23F7DF1E" />
-  <img alt="React" src="https://img.shields.io/badge/-React-%2320232a?style=flat-square&logo=react&logoColor=2361DAFB" />
+<p>  <img alt="React" src="https://img.shields.io/badge/-React-%2320232a?style=flat-square&logo=react&logoColor=2361DAFB" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-%23323330?style=flat-square&logo=javascript&logoColor=%23F7DF1E" />
    <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
     <img alt="TailWindCSS" src="https://img.shields.io/badge/-tailwindcss-%2338B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
     </p>
