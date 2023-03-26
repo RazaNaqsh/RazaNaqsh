@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey There!👋 </h1>
 
-I’m **Raza**, an *aspiring* **fullstack dev**`(Learning React atm)`.
+I’m **Raza**, an *aspiring* **fullstack dev**`(Learning Intermediate React atm)`.
 
 Currently learning to take flight in the world of coding and development; And making the leap to spread my wings in this realm. 
 
