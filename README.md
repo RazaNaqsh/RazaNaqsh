@@ -4,7 +4,7 @@ I’m **Raza**, an *aspiring* **fullstack dev**`(Getting better at React atm)`.
 
 Currently taking Flight in the world of coding and development; And aspiring to spread my wings even further. 
 
-*Hoping to learn a lot and thrive in this journey and GO BEYOND!*
+*Hoping to learn a lot and thrive in this journey and... ***GO BEYOND***!*
 
 
 <!---
