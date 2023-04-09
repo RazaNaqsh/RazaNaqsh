@@ -37,4 +37,4 @@ You can click the Preview link to take a look at your changes.
 
 
 
-You can reach out to me at  <a href="#"><img alt="Discord" src="https://img.shields.io/badge/-Discord-5865F2.svg?logo=discord&logoColor=white"></a> **Id: RaZa #4999**
+You can reach out to me at  <a href="https://discordapp.com/users/598381761751285771" target="blank"><img alt="Discord" src="https://img.shields.io/badge/-Discord-5865F2.svg?logo=discord&logoColor=white"></a> **Id: RaZa #4999**
