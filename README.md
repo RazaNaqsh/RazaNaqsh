@@ -50,9 +50,10 @@ You can click the Preview link to take a look at your changes.
 
 <div align="center">
   <br>
+   <a href="#">
+    <img  alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RazaNaqsh&theme=react&hide_border=true"/>
+  </a>
   
-  
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=RazaNaqsh&theme=react&hide_border=true)
 
   </div>
   
