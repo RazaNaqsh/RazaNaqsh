@@ -1,6 +1,11 @@
+<a href="#">
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3da37a&height=120&section=header"/>
+</a>
+
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey There!👋 </h1>
 
-I’m **Raza**, an *aspiring* **fullstack digital crafter**`(currently Getting better at React)`.
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3da37a&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Raza;I'm+an+aspiring+Full+Stack+Digital+Crafter;Nice+to+Meet+Ya!!+ツ)
+
 
 Currently taking Flight in the world of coding and development; And aspiring to spread my wings even further. 
 
@@ -29,11 +34,27 @@ You can click the Preview link to take a look at your changes.
   <img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" />
 </p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RazaNaqsh&theme=react)](https://git.io/streak-stats)
+<div align="center">
+   <br>
+  <a href="#">
+    <img height="190rem" alt="GitHub Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=RazaNaqsh&theme=react&hide_border=true"/>
+  </a>
+  <a href="#">
+    <img height="190rem" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api?username=RazaNaqsh&theme=react&show_icons=true&count_private=true&hide_border=true"/>
+  </a>
 
+  </div>
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=RazaNaqsh&theme=react)
-![Github stats](https://github-readme-stats.vercel.app/api?username=RazaNaqsh&theme=react&show_icons=true&count_private=true)
+<div align="center">
+  <br>
+  
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=RazaNaqsh&theme=react&hide_border=true)
+
+  </div>
+  
+  <a href="#">
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3da37a&height=120&section=footer"/>
+</a>
 
 
 
