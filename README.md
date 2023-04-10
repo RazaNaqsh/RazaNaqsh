@@ -40,10 +40,10 @@ You can click the Preview link to take a look at your changes.
 <div align="center">
    <br>
   <a href="#">
-    <img height="190rem" alt="GitHub Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=RazaNaqsh&theme=react&hide_border=true"/>
+    <img height="190rem" width="400rem" alt="GitHub Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=RazaNaqsh&theme=react&hide_border=true"/>
   </a>
   <a href="#">
-    <img height="190rem" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api?username=RazaNaqsh&theme=react&show_icons=true&count_private=true&hide_border=true"/>
+    <img height="190rem" width="400rem" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api?username=RazaNaqsh&theme=react&show_icons=true&count_private=true&hide_border=true"/>
   </a>
 
   </div>
