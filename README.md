@@ -9,7 +9,7 @@
 <div align="center">
 Currently taking Flight in the world of coding and development; And aspiring to spread my wings even further. 
 
-*Hoping to learn a lot and thrive in this journey and... ***GO BEYOND***!*
+*Hoping to learn a lot and thrive in this journey and... ***GO BEYOND***!!*
 </div>
 
 <!---
