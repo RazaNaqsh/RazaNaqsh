@@ -32,7 +32,7 @@ You can click the Preview link to take a look at your changes.
    <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
 
    <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-   <img alt="VisualStudioCode" src="https://img.shields.io/badge/-VisualStudioCode-0078d7?style=flat-square&logo=visual-studio-code&logoColor=white" />
+   
   <img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" />
 
   </p>
