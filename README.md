@@ -29,7 +29,6 @@ You can click the Preview link to take a look at your changes.
 <img alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" />
     <img alt="express" src="https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=webpack&logoColor=white" />
     <img alt="mongodb" src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />
-   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
 
    <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
    
