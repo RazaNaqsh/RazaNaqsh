@@ -36,6 +36,7 @@ You can click the Preview link to take a look at your changes.
 
   </p>
   </div>
+  
 
 <div align="center">
    <br>
@@ -48,12 +49,12 @@ You can click the Preview link to take a look at your changes.
 
   </div>
 
-<div align="center">
+<div align="center" >
   <br>
    <a href="#">
     <img  alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RazaNaqsh&theme=react&hide_border=true"/>
   </a>
-  
+    <a href="https://app.daily.dev/RZN"><img src="https://api.daily.dev/devcards/b9e83afb9db347359683796f69e7df7a.png?r=ql9" width="300" alt="Raza's Dev Card"/></a>
 
   </div>
   
