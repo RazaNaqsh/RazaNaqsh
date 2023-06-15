@@ -21,7 +21,11 @@ You can click the Preview link to take a look at your changes.
 <div style="display: inline_block">
   <h3 align="center">Languages and Tools I Use:</h3>
   <p align="center">
+   
+  <img alt="NEXT" src="https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white" />
  <img alt="React" src="https://img.shields.io/badge/-React-%2320232a?style=flat-square&logo=react&logoColor=2361DAFB" />
+
+ <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-%23323330?style=flat-square&logo=javascript&logoColor=%23F7DF1E" />
    <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
     <img alt="TailWindCSS" src="https://img.shields.io/badge/-tailwindcss-%2338B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
@@ -30,9 +34,7 @@ You can click the Preview link to take a look at your changes.
     <img alt="express" src="https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=webpack&logoColor=white" />
     <img alt="mongodb" src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />
 
-   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-   
-  <img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" />
+
 
   </p>
   </div>
