@@ -7,7 +7,7 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2361DAFB&size=35&center=true&vCenter=true&width=1000&lines=I'm+Raza;I'm+an+aspiring+Full+Stack+Developer;Nice+to+Meet+Ya!!+ツ)
 
 <div align="center">
-Currently taking Flight in the world of coding and development. And aspiring to spread my wings even further. 
+Currently taking flight in the world of coding and development. And aspiring to spread my wings even further. 
 
 *Hoping to thrive and learn a lot in this journey and... ***GO BEYOND***!!*
 </div>
