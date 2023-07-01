@@ -38,15 +38,20 @@ You can click the Preview link to take a look at your changes.
 
   </p>
   </div>
-  
+  <div align="center">
+   <a href="https://github.com/RazaNaqsh">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RazaNaqsh&theme=react" />
+
+  </div>
 
 <div align="center">
    <br>
   <a href="#">
     <img height="190rem" width="400rem" alt="GitHub Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=RazaNaqsh&theme=react&hide_border=true"/>
   </a>
-  <a href="#">
-    <img height="190rem" width="400rem" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api?username=RazaNaqsh&theme=react&show_icons=true&count_private=true&hide_border=true"/>
+  </a>
+      <a href="https://github.com/RazaNaqsh">
+    <img height="190rem" width="400rem"  src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=RazaNaqsh&theme=react" />
   </a>
 
   </div>
