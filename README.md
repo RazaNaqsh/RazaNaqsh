@@ -4,7 +4,7 @@
 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey There!👋 </h1>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2361DAFB&size=35&center=true&vCenter=true&width=1000&lines=I'm+Raza;I'm+an+aspiring+Full+Stack+Developer;Nice+to+Meet+Ya!!+ツ)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2361DAFB&size=35&center=true&vCenter=true&width=1000&lines=I'm+Raza;I'm+a+Full+Stack+Developer;Nice+to+Meet+Ya!!+ツ)
 
 <div align="center">
 Currently taking flight in the world of coding and development & Aspiring to spread my wings even further. 
