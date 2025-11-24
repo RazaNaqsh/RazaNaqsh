@@ -2,7 +2,7 @@
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2361DAFB&height=120&section=header"/>
 </a>
 
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey There!!👋 </h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey There!👋 </h1>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2361DAFB&size=35&center=true&vCenter=true&width=1000&lines=I'm+Raza;I'm+a+Full+Stack+Developer;Nice+to+Meet+Ya!!+ツ)
 
